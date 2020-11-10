@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Go visit my website at [tomodachi94.github.io](https://tomodachi94.github.io)
 <!--
 **Tomodachi94/Tomodachi94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
