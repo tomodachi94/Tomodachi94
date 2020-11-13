@@ -1,0 +1,32 @@
+# This workflow will triage pull requests and apply a label based on the
+# paths that are modified in the pull request.
+#
+# To use this workflow, you will need to set up a .github/labeler.yml
+# file with configuration.  For more information, see:
+# https://github.com/actions/labeler
+
+name: Labeler
+on: [pull_request]
+
+jobs:
+  label:
+
+    runs-on: ubuntu-latest
+    - name: Check spelling
+  # You may pin to the exact commit or the version.
+  # uses: check-spelling/check-spelling@5f7f35b25e6bce7b1e5a8f226369a86ab19a623e
+  uses: check-spelling/check-spelling@0.0.16-alpha
+  with:
+    # The GITHUB_TOKEN secret
+    repo-token: # optional
+    # Container for spelling configuration
+    bucket: 
+    # Folder/Branch within bucket containing spelling configuration
+    project: 
+    # Debug
+    debug: # optional
+
+    steps:
+    - uses: actions/labeler@v2
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
