@@ -10,7 +10,6 @@ on: [pull_request]
 
 jobs:
   label:
-
     runs-on: ubuntu-latest
     - name: Check spelling
   # You may pin to the exact commit or the version.
