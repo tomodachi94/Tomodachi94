@@ -1,4 +1,4 @@
-:wave: Hey there! I'm a programming hobbyist who likes Python and Lua and wants to learn Rust.
+:wave: Hey there! I'm a programming hobbyist who likes Python, Lua, and Nix and wants to learn Rust.
 
 You might know me as...
 
