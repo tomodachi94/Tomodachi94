@@ -2,8 +2,8 @@
 
 You might know me as...
 
-- That one guy who made a PR onto your project for no apparent reason
-- That guy who joined one of your chatrooms
+- That one person who made a PR onto your project for no apparent reason
+- That human who joined one of your tech-related chatrooms
 - That person who edited some pages [on Wikipedia](https://en.wikipedia.org/wiki/User:Tomodachi94) (or your small wiki)
 - The one user who made a bunch of programming-related entities [on Wikidata](https://wikidata.org/wiki/User:Tomodachi94)
 - The person who maintains the [`awesome-computercraft`](https://github.com/tomodachi94/awesome-computercraft) list.
