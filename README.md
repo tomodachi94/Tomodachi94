@@ -4,7 +4,7 @@
 
 - I maintain the [`awesome-computercraft`](https://github.com/tomodachi94/awesome-computercraft) list.
 - I help moderate the [unofficial NixOS Discord](https://discord.com/invite/RbvHtGa) and a handful of others.
-- I maintain some packages [on Nixpkgs](https://repology.org/maintainer/tomodachi94+nixpkgs%40protonmail.com).
+- I maintain some packages [on Nixpkgs](https://repology.org/maintainer/tomodachi94%40protonmail.com).
 - Additionally, I maintain many other inconsequential things on GitHub, like [unicornpkg](https://unicornpkg.madefor.cc).
 
 ## What do you do around the Internet?
